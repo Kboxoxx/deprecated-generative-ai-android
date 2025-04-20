@@ -1,4 +1,4 @@
-# Google Generative AI Sample for Android (Kotlin)
+ä# Google Generative AI Sample for Android (Kotlin)
 
 This Android sample app demonstrates how to use state-of-the-art 
 generative AI models (like Gemini) to build AI-powered features and applications.
